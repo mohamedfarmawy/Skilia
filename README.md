@@ -6,8 +6,8 @@
 - مريم يوسف عبدالحفيظ(Case Study & Documentation)
 - الاء محمد مسعد محمد(User Flow & Information Architecture)
 - عمر محمد احمد رفاعي(Prototype & Interaction Design)
-(اسم المحاضر)
-د\احمد ابو زياده
+- (اسم المحاضر)
+- د\احمد ابو زياده
 
 https://www.figma.com/board/B94lIZPoa80f0YUsxYMefR/PROJECT?node-id=0-1&t=qAGruw6ovYDvtWfZ-0
 
